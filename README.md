@@ -1,4 +1,4 @@
-# Arduino-Projects
+# Arduino-Scripts
 some code for different arduino project 
 
 ### 1 ) Switch On Off Led 
