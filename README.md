@@ -15,7 +15,7 @@ Go [here](https://rb.gy/9hwfv1)
 ## :three: Conductive Paint and Arduino to control a led 
 Little example to control led with conductive paint 
 
-Go [here](shorturl.at/jnUX4)
+Go [here](shorturl.at/ijtW9)
 
 
 
